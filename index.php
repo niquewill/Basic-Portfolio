@@ -1,1 +1,1 @@
-<?php include_once("C:\Users\niquewill44\Desktop\UniversityofTexas\Basic-Portfolio\index.html"); ?>
+<?php include_once("index.html"); ?>

@@ -129,6 +129,9 @@ h1 {
 }
 p {
     font-size: 20px;
+    font-family: sans-serif; 
+    font-stretch: semi-condensed;
+    font-family: Catamaran;
     
 }
 
@@ -136,6 +139,79 @@ a {
     color: #373F03;
     text-decoration: none;
  }
+body {
+    font-family: sans-serif; 
+    font-stretch: semi-condensed;
+    font-family: Catamaran;
+}
+
+header {
+  background: url(../img/Slide.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  color: #fff;
+}
+
+header .header-content {
+  padding: 250px 0;
+}
+
+header .header-content h1 {
+  font-size: 56px;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 5px;
+  font-family: sans-serif; 
+  font-stretch: semi-condensed;
+  font-family: Catamaran;
+}
+
+header .header-content h1 span {
+  font-weight: 700;
+}
+
+.docs {
+  padding: 20px 0;
+}
+
+.docs h1 {
+  font-size: 46px;
+  font-weight: 700;
+}
+
+.docs p {
+  font-size: 16px;
+  width: 80%;
+}
+
+.docs ul {
+  margin-top: 20px;
+}
+
+.docs ul .is-folder {
+  font-size: 14px;
+  text-transform: uppercase;
+}
+
+.docs ul .is-folder i {
+  color: #28c;
+  margin-right: 15px;
+}
+
+.docs ul .is-folder ul {
+  margin-top: 10px;
+  padding-left: 30px;
+}
+
+.docs ul .is-folder ul i {
+  color: #4b5;
+}
+
+.docs ul .is-folder ul li {
+  margin-bottom: 5px;
+}
 
     
     
